@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Inventory Manager
 
 A console-based inventory CRUD app with a **C data layer** (binary file I/O via
@@ -104,3 +105,9 @@ executable).  The file is created automatically on the first `Add item`.
    - Attempt empty name → re-prompted.
    - All invalid inputs produce an error message and ask again without crashing.
    - ✅ Pass
+=======
+# HybridInventoryManager
+A hybrid Inventory Management System developed using C and C++.
+The project combines low-level binary file operations in C with object-oriented programming and STL features in C++. 
+Supports persistent data storage and CRUD operations including add, update, delete, search, and listing of inventory items.
+>>>>>>> ce72a75562a22d69b9051928e4c317791370f038
